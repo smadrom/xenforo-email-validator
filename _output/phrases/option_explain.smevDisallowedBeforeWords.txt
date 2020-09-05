@@ -1,4 +1,4 @@
-Например: <br>
-- hacker<br>
-- admin<br>
-- tempmail<br>
+Поиск совпадений до разделителя @.<br>
+Например:<br>
+admin<br>
+hacker<br>

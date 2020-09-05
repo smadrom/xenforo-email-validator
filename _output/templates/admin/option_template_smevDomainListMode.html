@@ -1,0 +1,13 @@
+<xf:selectrow name="{$inputName}" 
+	label="{$option.title}" 	
+	hint="{$hintHtml}"
+	explain="{$explainHtml}"
+	html="{$listedHtml}"
+	rowclass="{$rowClass}">
+	<xf:option value="disallowed" selected="$option.option_value == 'disallowed'">
+		{{ phrase('smev_disallowed_domain') }}
+	</xf:option>
+	<xf:option value="allowed" selected="$option.option_value == 'allowed'">
+		{{ phrase('smev_allowed_domain') }}
+	</xf:option>
+</xf:selectrow>

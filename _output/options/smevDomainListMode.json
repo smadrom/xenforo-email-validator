@@ -1,13 +1,13 @@
 {
-    "edit_format": "textbox",
-    "edit_format_params": "rows=2",
+    "edit_format": "template",
+    "edit_format_params": "option_template_smevDomainListMode",
     "data_type": "string",
     "sub_options": [],
     "validation_class": "",
     "validation_method": "",
     "advanced": false,
-    "default_value": "",
+    "default_value": "disallowed",
     "relations": {
-        "smevOptions": 4
+        "smevOptions": 2
     }
 }

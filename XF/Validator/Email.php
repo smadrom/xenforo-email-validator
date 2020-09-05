@@ -25,8 +25,7 @@ class Email extends XFCP_Email
             $options = $this->app->options();
 
             $rules = [
-                'DisallowedDomain',
-                'AllowedDomain',
+                'DomainList',
                 'DisallowedBeforeWords',
                 'DisallowedWords',
                 'RegexList',
@@ -37,6 +36,10 @@ class Email extends XFCP_Email
                 $option = $this->getRuleOption($rule, $options);
 
                 if ($option !== null) {
+
+                    if ($rule === 'DomainList') {
+                        $rule = ucfirst($options->{'smev' . $rule . 'Mode'}) . 'Domain';
+                    }
 
                     $method = 'is' . $rule;
 

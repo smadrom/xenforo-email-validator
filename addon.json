@@ -1,15 +1,19 @@
 {
     "legacy_addon_id": "",
     "title": "SM - Email Validator",
-    "description": "Дополнительные правила валидации почтового адреса",
-    "version_id": 1000010,
-    "version_string": "1.0.0 Alpha",
-    "dev_url": "https://github.com/smadrom/xenforo-thread-route",
-    "faq_url": "https://github.com/smadrom/xenforo-thread-route",
-    "support_url": "https://github.com/smadrom/xenforo-thread-route",
+    "description": "\u0414\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0430\u0432\u0438\u043b\u0430 \u0432\u0430\u043b\u0438\u0434\u0430\u0446\u0438\u0438 \u043f\u043e\u0447\u0442\u043e\u0432\u043e\u0433\u043e \u0430\u0434\u0440\u0435\u0441\u0430",
+    "version_id": 1001010,
+    "version_string": "1.0.1 Alpha",
+    "dev": "",
+    "dev_url": "https://github.com/smadrom/xenforo-email-validator",
+    "faq_url": "https://github.com/smadrom/xenforo-email-validator",
+    "support_url": "https://github.com/smadrom/xenforo-email-validator",
     "extra_urls": [],
     "require": {
-        "php": ["7.1.0", "PHP 7.1.0+"]
+        "php": [
+            "7.1.0",
+            "PHP 7.1.0+"
+        ]
     },
     "icon": "fa-envelope"
 }

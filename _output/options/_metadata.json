@@ -1,27 +1,24 @@
 {
-    "smevAllowedDomain.json": {
-        "hash": "0eb974bac20ca58b8bae14d1966952b5"
-    },
     "smevDisallowedBeforeWords.json": {
         "hash": "d7626c5b0cc62686bce1d2fe813d7bc2"
-    },
-    "smevDisallowedDomain.json": {
-        "hash": "5f8a272461f842731168c323dd7ca6cb"
     },
     "smevDisallowedWords.json": {
         "hash": "5a44237f8bcd2e0e8fe540533b9e6e49"
     },
-    "smevEnableAllowedDomain.json": {
-        "hash": "40d46034dba459cd4743cec69c655cdd"
+    "smevDomainList.json": {
+        "hash": "5f8a272461f842731168c323dd7ca6cb"
+    },
+    "smevDomainListMode.json": {
+        "hash": "24f8a4108277115eadd5e8c6ab26d2dd"
     },
     "smevEnableDisallowedBeforeWords.json": {
         "hash": "52487955f8ee7864f78bb4818ca80da9"
     },
-    "smevEnableDisallowedDomain.json": {
-        "hash": "586393804f4a0bf16f0e616669d5853c"
-    },
     "smevEnableDisallowedWords.json": {
         "hash": "a09800a706d408f863e7f5462dfa7f60"
+    },
+    "smevEnableDomainList.json": {
+        "hash": "586393804f4a0bf16f0e616669d5853c"
     },
     "smevEnableRegexList.json": {
         "hash": "5761cca93b57e46895b6dbb3b3ac544c"
