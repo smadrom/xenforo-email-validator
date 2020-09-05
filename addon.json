@@ -1,0 +1,15 @@
+{
+    "legacy_addon_id": "",
+    "title": "SM - Email Validator",
+    "description": "Дополнительные правила валидации почтового адреса",
+    "version_id": 1000010,
+    "version_string": "1.0.0 Alpha",
+    "dev_url": "https://github.com/smadrom/xenforo-thread-route",
+    "faq_url": "https://github.com/smadrom/xenforo-thread-route",
+    "support_url": "https://github.com/smadrom/xenforo-thread-route",
+    "extra_urls": [],
+    "require": {
+        "php": ["7.1.0", "PHP 7.1.0+"]
+    },
+    "icon": "fa-envelope"
+}

@@ -1,0 +1,134 @@
+{
+    "option.smevAllowedDomain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "2029381b3955e98a40acb28f7ba8aa13"
+    },
+    "option.smevDisallowedBeforeWords.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "cbd63d5608392c49e2f7e3582f067255"
+    },
+    "option.smevDisallowedDomain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "48650315cba8a86247ad00e9aaa9a4aa"
+    },
+    "option.smevDisallowedWords.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "3ee384871fac6b9053173de1cc58e219"
+    },
+    "option.smevEnableAllowedDomain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "ee215af3d6d3a81358e9f6dc137dcad2"
+    },
+    "option.smevEnableDisallowedBeforeWords.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "8094e15cb90d4ad18ee57884dc4f79e1"
+    },
+    "option.smevEnableDisallowedDomain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "c827b6a412db2410214c46c8938ac813"
+    },
+    "option.smevEnableDisallowedWords.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "155b2f87ee885c55b1017f3b1b0281f6"
+    },
+    "option.smevEnableRegexList.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "2c0a2d28ec03cff11835efe0a7eaca5a"
+    },
+    "option.smevRegexList.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "5da2fb51de306ad86e4bf6e94a134e7b"
+    },
+    "option_explain.smevAllowedDomain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "cc6eb2ce60cea61f748a998e983d0f2b"
+    },
+    "option_explain.smevDisallowedBeforeWords.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "659897b59cf2340d71830ee308f80f70"
+    },
+    "option_explain.smevDisallowedDomain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "3e75e41ee8279c4f6f810bf3ffe709dc"
+    },
+    "option_explain.smevDisallowedWords.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "8f4d05a5d006c72fd5729c1770bc782c"
+    },
+    "option_explain.smevEnableAllowedDomain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.smevEnableDisallowedBeforeWords.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.smevEnableDisallowedDomain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.smevEnableDisallowedWords.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.smevEnableRegexList.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.smevRegexList.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "46c6c424d8182425287a5e3cd6d486e1"
+    },
+    "option_group.smevOptions.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "14c124bde7009277583c7ba4505d10bc"
+    },
+    "option_group_description.smevOptions.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "302183f6b9bd613d69c27239fbec2150"
+    }
+}
