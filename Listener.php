@@ -4,7 +4,6 @@ declare(strict_types=1);
 namespace SM\EV;
 
 use SM\EV\Validator\Email;
-use XF;
 use XF\Entity\User;
 
 /**
@@ -13,11 +12,7 @@ use XF\Entity\User;
  */
 class Listener
 {
-    /**
-     * @param User $entity
-     * @return mixed
-     */
-    public static function userEntityPreUpdate(User $entity)
+    public static function userEntityPreUpdate(User $entity): void
     {
         if ($entity->isChanged('email') && !$entity->getOption('admin_edit')) {
             $errorMessage = null;
@@ -26,10 +21,9 @@ class Listener
                 ->isValid($entity->email, $errorMessage);
 
             if ($errorMessage !== null) {
-                return $entity->error($errorMessage);
+                $entity->error($errorMessage);
+                return;
             }
         }
-
-        die();
     }
 }
