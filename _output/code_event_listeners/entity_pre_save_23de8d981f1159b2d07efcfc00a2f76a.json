@@ -1,0 +1,9 @@
+{
+    "event_id": "entity_pre_save",
+    "execute_order": 10,
+    "callback_class": "SM\\EV\\Listener",
+    "callback_method": "userEntityPreUpdate",
+    "active": true,
+    "hint": "XF\\Entity\\User",
+    "description": "\u0421\u043e\u0431\u044b\u0442\u0438\u0435 \u043f\u0435\u0440\u0435\u0434 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f"
+}
